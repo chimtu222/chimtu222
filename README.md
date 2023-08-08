@@ -1,7 +1,7 @@
-# I'm Subramanyam Panda:
+# 🙋🏻‍♂ I'm Subramanyam Panda
 
 ## 💫 About Me:
-<br>👨‍🎓  I am a B.Tech student from CS background<br>👨🏻‍💻  Enthusiastic learner and explorer<br>🌱  I'm currently learning JAVA <br>💬  Ask me about: Trending memes<br>⚡  Fun fact: I am lazy but smart<br>
+<br>🎓  I am a B.Tech student from CS background<br>👨🏻‍💻  Enthusiastic learner and explorer<br>🌱  I'm currently learning JAVA <br>💬  Ask me about: Trending memes<br>⚡  Fun fact: I am lazy but smart<br>
 
 ## ✍️ Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -15,7 +15,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SubramanyamPanda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/subhu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subramanyam-panda-441409218/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SubramanyamPan6) 
 
 
-## 🔝 Top Contributed Repo
+## 📁 Contributed Repository:
 ![](https://github-contributor-stats.vercel.app/api?username=chimtu222&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chimtu222&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 My Trophies
+## 🏆 My Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=chimtu222&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
