@@ -3,7 +3,6 @@
 ## 💫 About Me:
 <br>🎓  I am a B.Tech student from CS background<br>
 👨🏻‍💻  Enthusiastic learner and explorer<br>
-🌱  I'm currently learning JAVA <br>
 💬  Ask me about: Trending memes<br>
 ⚡  Fun fact: I am lazy but smart<br>
 
